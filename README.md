@@ -41,3 +41,7 @@ Deploy the app to Vercel by connecting this repository and setting the `DATABASE
 ## License
 
 This project is licensed under the MIT License.
+
+## Admin Dashboard
+
+Visit `/admin/users` to view and manage Supabase users. Set `SUPABASE_URL` and `SUPABASE_SERVICE_ROLE_KEY` in your environment to enable user management.
